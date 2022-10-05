@@ -10,3 +10,15 @@ D:\Projects\NewsWebsite\NewsWebsite.ViewModels\obj\Debug\net6.0\NewsWebsite.View
 D:\Projects\NewsWebsite\NewsWebsite.ViewModels\obj\Debug\net6.0\refint\NewsWebsite.ViewModels.dll
 D:\Projects\NewsWebsite\NewsWebsite.ViewModels\obj\Debug\net6.0\NewsWebsite.ViewModels.pdb
 D:\Projects\NewsWebsite\NewsWebsite.ViewModels\obj\Debug\net6.0\ref\NewsWebsite.ViewModels.dll
+D:\Projects\News\NewsWebsite.ViewModels\bin\Debug\net6.0\NewsWebsite.ViewModels.deps.json
+D:\Projects\News\NewsWebsite.ViewModels\bin\Debug\net6.0\NewsWebsite.ViewModels.dll
+D:\Projects\News\NewsWebsite.ViewModels\bin\Debug\net6.0\NewsWebsite.ViewModels.pdb
+D:\Projects\News\NewsWebsite.ViewModels\obj\Debug\net6.0\NewsWebsite.ViewModels.csproj.AssemblyReference.cache
+D:\Projects\News\NewsWebsite.ViewModels\obj\Debug\net6.0\NewsWebsite.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\News\NewsWebsite.ViewModels\obj\Debug\net6.0\NewsWebsite.ViewModels.AssemblyInfoInputs.cache
+D:\Projects\News\NewsWebsite.ViewModels\obj\Debug\net6.0\NewsWebsite.ViewModels.AssemblyInfo.cs
+D:\Projects\News\NewsWebsite.ViewModels\obj\Debug\net6.0\NewsWebsite.ViewModels.csproj.CoreCompileInputs.cache
+D:\Projects\News\NewsWebsite.ViewModels\obj\Debug\net6.0\NewsWebsite.ViewModels.dll
+D:\Projects\News\NewsWebsite.ViewModels\obj\Debug\net6.0\refint\NewsWebsite.ViewModels.dll
+D:\Projects\News\NewsWebsite.ViewModels\obj\Debug\net6.0\NewsWebsite.ViewModels.pdb
+D:\Projects\News\NewsWebsite.ViewModels\obj\Debug\net6.0\ref\NewsWebsite.ViewModels.dll
