@@ -1,0 +1,12 @@
+D:\Projects\NewsWebsite\NewsWebsite.Common\bin\Debug\net6.0\NewsWebsite.Common.deps.json
+D:\Projects\NewsWebsite\NewsWebsite.Common\bin\Debug\net6.0\NewsWebsite.Common.dll
+D:\Projects\NewsWebsite\NewsWebsite.Common\bin\Debug\net6.0\NewsWebsite.Common.pdb
+D:\Projects\NewsWebsite\NewsWebsite.Common\obj\Debug\net6.0\NewsWebsite.Common.csproj.AssemblyReference.cache
+D:\Projects\NewsWebsite\NewsWebsite.Common\obj\Debug\net6.0\NewsWebsite.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NewsWebsite\NewsWebsite.Common\obj\Debug\net6.0\NewsWebsite.Common.AssemblyInfoInputs.cache
+D:\Projects\NewsWebsite\NewsWebsite.Common\obj\Debug\net6.0\NewsWebsite.Common.AssemblyInfo.cs
+D:\Projects\NewsWebsite\NewsWebsite.Common\obj\Debug\net6.0\NewsWebsite.Common.csproj.CoreCompileInputs.cache
+D:\Projects\NewsWebsite\NewsWebsite.Common\obj\Debug\net6.0\NewsWebsite.Common.dll
+D:\Projects\NewsWebsite\NewsWebsite.Common\obj\Debug\net6.0\refint\NewsWebsite.Common.dll
+D:\Projects\NewsWebsite\NewsWebsite.Common\obj\Debug\net6.0\NewsWebsite.Common.pdb
+D:\Projects\NewsWebsite\NewsWebsite.Common\obj\Debug\net6.0\ref\NewsWebsite.Common.dll

@@ -1,0 +1,12 @@
+D:\Projects\NewsWebsite\NewsWebsite.Entities\bin\Debug\net6.0\NewsWebsite.Entities.deps.json
+D:\Projects\NewsWebsite\NewsWebsite.Entities\bin\Debug\net6.0\NewsWebsite.Entities.dll
+D:\Projects\NewsWebsite\NewsWebsite.Entities\bin\Debug\net6.0\NewsWebsite.Entities.pdb
+D:\Projects\NewsWebsite\NewsWebsite.Entities\obj\Debug\net6.0\NewsWebsite.Entities.csproj.AssemblyReference.cache
+D:\Projects\NewsWebsite\NewsWebsite.Entities\obj\Debug\net6.0\NewsWebsite.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NewsWebsite\NewsWebsite.Entities\obj\Debug\net6.0\NewsWebsite.Entities.AssemblyInfoInputs.cache
+D:\Projects\NewsWebsite\NewsWebsite.Entities\obj\Debug\net6.0\NewsWebsite.Entities.AssemblyInfo.cs
+D:\Projects\NewsWebsite\NewsWebsite.Entities\obj\Debug\net6.0\NewsWebsite.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\NewsWebsite\NewsWebsite.Entities\obj\Debug\net6.0\NewsWebsite.Entities.dll
+D:\Projects\NewsWebsite\NewsWebsite.Entities\obj\Debug\net6.0\refint\NewsWebsite.Entities.dll
+D:\Projects\NewsWebsite\NewsWebsite.Entities\obj\Debug\net6.0\NewsWebsite.Entities.pdb
+D:\Projects\NewsWebsite\NewsWebsite.Entities\obj\Debug\net6.0\ref\NewsWebsite.Entities.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kc95HFnk8Vq7E2OH2Ah9mnkuAfmO88RhBUgpQbcrEavE/JEyCFy9raZ2njpc6VlWmCisALJGAM3tYmxlmKCjlg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\News\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahya\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
